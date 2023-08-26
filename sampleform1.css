@@ -1,0 +1,48 @@
+
+
+/* Form container */
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #08f740;
+    border-radius: 5px;
+  }
+  
+  /* Form input fields */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-group input[type="text"],
+  .form-group input[type="email"],
+  .form-group input[type="password"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #c84141;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .form-group input[type="submit"] {
+    background-color: #4CAF50;
+    color: rgb(54, 34, 180);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .form-group input[type="submit"]:hover {
+    background-color: #f80ac4;
+  }
+  

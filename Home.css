@@ -1,0 +1,239 @@
+ .u-section-1 {
+  background-image: url("images/17520.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 820px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 589px;
+  height: 396px;
+  margin: 70px auto 0;
+}
+
+.u-section-1 .u-countdown-1 {
+  margin: 43px auto 0;
+}
+
+.u-section-1 .u-countdown-item-1 {
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-1 {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-1 {
+  font-size: 1rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.u-section-1 .u-countdown-separator-1 {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-item-2 {
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-2 {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-2 {
+  font-size: 1rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.u-section-1 .u-countdown-separator-2 {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-item-3 {
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-3 {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-3 {
+  font-size: 1rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.u-section-1 .u-countdown-separator-3 {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-item-4 {
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-4 {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-4 {
+  font-size: 1rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.u-section-1 .u-countdown-separator-4 {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-item-5 {
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-5 {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-5 {
+  font-size: 1rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.u-section-1 .u-countdown-separator-5 {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-item-6 {
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-6 {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-6 {
+  font-size: 1rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.u-section-1 .u-text-1 {
+  background-image: none;
+  font-size: 1.875rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: 1.4;
+  margin: 34px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 0.875rem;
+  line-height: 1.8;
+  letter-spacing: 1px;
+  font-weight: 400;
+  width: 241px;
+  margin: 43px auto 22px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 848px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 792px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 363px;
+  }
+
+  .u-section-1 .u-countdown-counter-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-countdown-separator-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-countdown-counter-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-countdown-separator-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-countdown-counter-3 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-countdown-separator-3 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-countdown-counter-4 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-countdown-separator-4 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-countdown-counter-5 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-countdown-separator-5 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-countdown-counter-6 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 884px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 229px;
+  }
+}
