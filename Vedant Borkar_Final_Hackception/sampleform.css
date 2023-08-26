@@ -1,0 +1,118 @@
+/* Styles for the registration form */
+form {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  input[type="text"], input[type="email"], input[type="url"], select {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: 1px solid #9b1c1c;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    box-sizing: border-box;
+  }
+  
+  input[type="submit"] {
+    background-color: #0074d9;
+    color: #020202 !important;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  h2,h3,h4,p,a,label{
+    color : white !important;
+  }
+  
+  /* Styles for the individual form fields */
+  label[for="name"] {
+    font-weight: bold;
+  }
+  
+  input#name {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  label[for="email"] {
+    font-weight: bold;
+  }
+  
+  input#email {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  label[for="github"] {
+    font-weight: bold;
+  }
+  
+  input#github {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  label[for="year"] {
+    font-weight: bold;
+  }
+  
+  select#year {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #08f740;
+    border-radius: 5px;
+  }
+  
+  /* Form input fields */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-group input[type="text"],
+  .form-group input[type="email"],
+  .form-group input[type="password"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #c84141;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .form-group input[type="submit"] {
+    background-color: #4CAF50;
+    color: rgb(54, 34, 180);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .form-group input[type="submit"]:hover {
+    background-color: #f80ac4;
+  }
+  
